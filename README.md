@@ -8,7 +8,7 @@ url: https://ieeexplore.ieee.org/abstract/document/10850658
 
 Paper Information [R] J. An, C. Yuen, M. D. Renzo, M. Debbah, H. V. Poor and L. Hanzo, "Flexible Intelligent Metasurfaces for Downlink Multiuser MISO Communications," IEEE Trans. Wireless Commun., vol. 24, no. 4, pp. 2940-2955, Apr. 2025.
 
-Bib
+## Bib
 @ARTICLE{TWC_2025_An_Flexible,
   author={An, Jiancheng and Yuen, Chau and Renzo, Marco Di and Debbah, Mérouane and Poor, H. Vincent and Hanzo, Lajos},
   journal={IEEE Trans. Wireless Commun.}, 
